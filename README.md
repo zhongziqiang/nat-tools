@@ -8,7 +8,7 @@
 
 ## 安装
 
-首先下载最新一个 [release](https://github.com/lblblong/nat-utools/releases) 中的 `upx` 插件文件
+首先下载最新一个 [release](https://github.com/zhongziqiang/nat-tools/releases) 中的 `upx` 插件文件
 
 然后呼出 `utools` 输入框，将刚刚下载的 `upx` 插件拖入输入框安装即可
 
